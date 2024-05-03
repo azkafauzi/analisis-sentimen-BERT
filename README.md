@@ -13,3 +13,10 @@ Proyek ini bertujuan untuk mengembangkan sistem analisis sentimen yang dapat men
 Dataset yang akan digunakan adalah kumpulan review film dari Twitter yang berbahasa Indonesia. Dataset terdiri dari 200 dokumen tweet terkait opini pada film. Dataset ini diambil dari github rizalespe, berikut link nya :
 https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia
 
+## Metodologi
+1. Data Preparation
+2. Pembuatan Model
+3. Evaluasi Model
+
+## Kesimpulan
+
